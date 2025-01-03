@@ -2,7 +2,7 @@
 
 Autor: Šimon Petříček simon.petricek.s@gyarab.cz
 
-Ukázkový ročníkový projekt z předmětu webové technologie ve šk. roce 2024/2025
+Ročníkový projekt z předmětu webové technologie ve šk. roce 2024/2025
 
 # Odborný článek
 
@@ -14,4 +14,5 @@ Na homepage je zobrazen seznam bojových sportů, který lze filtrovat podle zam
 
 Hlavní menu obsahuje odkazy na homepage (seznam bojových sportů) a na seznam zemí. Oba seznamy mají v horní části nezávislé fulltextové vyhledávání, které při zadání výrazu zobrazí sporty nebo země, které obsahují hledaný výraz v názvu nebo popisu.
 
-unnamed.jpg
+## Wireframes
+![unnamed](https://github.com/user-attachments/assets/1cdce072-974c-4829-89d5-b983472df1ba)
