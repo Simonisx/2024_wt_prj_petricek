@@ -6,7 +6,7 @@ Ukázkový ročníkový projekt z předmětu webové technologie ve šk. roce 20
 
 # Odborný článek
 
-Databáze bojových sportů je webová aplikace přístupná na file: ///C:/Users/simon/static_web/one.html
+Databáze bojových sportů je webová aplikace přístupná na file:///C:/Users/simon/static_web/one.html
 
 V administraci se spravuje databáze bojových sportů. Každý sport obsahuje atributy, jako jsou název, popis, zaměření na boj v postoji nebo na zemi, země původu, přibližné období vzniku a seznam známých celosvětových turnajů. Pokud je známý zakladatel sportu, je uveden spolu s výčtem nejvýznamnějších bojovníků spojených s daným sportem.
 
