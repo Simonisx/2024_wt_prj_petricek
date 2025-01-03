@@ -13,3 +13,5 @@ V administraci se spravuje databáze bojových sportů. Každý sport obsahuje a
 Na homepage je zobrazen seznam bojových sportů, který lze filtrovat podle zaměření (postoj nebo zem) a řadit podle země původu. Seznam je tvořen kartami, na nichž je zobrazen titulní obrázek sportu, název a prvních 100 znaků popisu. Kliknutím na kartu se otevře detailní stránka sportu, kde jsou uvedeny veškeré informace o daném sportu. Z této stránky lze prokliknout na odkaz vedoucí k dané zemi, který zobrazí seznam dalších sportů pocházejících z této země.
 
 Hlavní menu obsahuje odkazy na homepage (seznam bojových sportů) a na seznam zemí. Oba seznamy mají v horní části nezávislé fulltextové vyhledávání, které při zadání výrazu zobrazí sporty nebo země, které obsahují hledaný výraz v názvu nebo popisu.
+
+unnamed.jpg
